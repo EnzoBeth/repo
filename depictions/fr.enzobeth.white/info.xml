@@ -1,0 +1,23 @@
+<package>
+	<id>fr.enzobeth.white</id>
+	<name>"WHITE"</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>"WHITE" is a free theme inspired by Off-White branding style</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
